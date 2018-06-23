@@ -1,0 +1,45 @@
+h1, .broadway{
+  font-family: Helvetica
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-image: url("..images/flatiron.png");
+  }
+
+ul, .broadway{
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+.broadway,.new-york{
+  background-image: url("..images/flatiron.png");
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+h3, .new-york{
+  font-size: 23px;
+  font-weight: bold;
+  color: white
+  background-image: url("..images/flatiron.png");
+
+}
+p{
+  font-size: 14px;
+}
+.footer{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgrey;
+}
